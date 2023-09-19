@@ -1,4 +1,6 @@
 Første commit!!!
 
 
-Test!!!
+fnqeoænguoernqgouærengøjknq
+
+this is master
