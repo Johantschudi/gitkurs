@@ -2,3 +2,5 @@ Første commit!!!
 
 
 Test!!!
+
+gnerughbreiuwpgbiwerøbgruøeiqbhgiurøeq
