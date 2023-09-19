@@ -1,6 +1,1 @@
-Første commit!!!
-
-
-fnqeoænguoernqgouærengøjknq
-
-this is master
+Første testprosjekt
